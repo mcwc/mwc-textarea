@@ -1,5 +1,5 @@
 {
-  "name": "@material/mwc-textarea",
+  "name": "mcwc/mwc-textarea",
   "version": "0.6.0",
   "description": "",
   "main": "mwc-textarea.js",
