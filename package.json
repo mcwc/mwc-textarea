@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@material/mwc-base": "^0.6.0",
-    "@material/mwc-textfield": "^0.6.0",
+    "@material/mwc-textfield": "git+https://github.com/mcwc/mwc-textfield.git",
     "@material/textfield": "^3.0.0"
   },
   "publishConfig": {
